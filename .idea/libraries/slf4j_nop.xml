@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="slf4j.nop" type="repository">
+    <properties maven-id="org.slf4j:slf4j-nop:1.7.30">
+      <exclude>
+        <dependency maven-id="org.slf4j:slf4j-api" />
+        <dependency maven-id="org.slf4j:slf4j-nop" />
+      </exclude>
+    </properties>
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
